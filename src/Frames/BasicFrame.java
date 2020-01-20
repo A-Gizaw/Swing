@@ -8,6 +8,10 @@ import javax.swing.JMenuItem;
 import CreateBasic.Create;
 import Listener.Listener;
 
+/**
+ * This class adds basic menu bar information
+ *  -
+ */
 public class BasicFrame {
     public static void main(String[] args) {
 
